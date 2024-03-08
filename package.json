@@ -1,20 +1,23 @@
 {
-  "name": "markdownparserbykenvit", 
-  "version": "1.0.0", 
-  "description": "by kenvit", 
+  "name": "markdownparserbykenvit",
+  "version": "1.0.0",
+  "description": "by kenvit",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": ""
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", 
-  "license": "MIT"
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "markdownparserbykenvit": "^1.0.0"
+  }
 }
